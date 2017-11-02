@@ -1,0 +1,8 @@
+
+
+server:
+  port: ${PORT:9903}
+
+spring:
+  application:
+    name: monitor-dashboard
